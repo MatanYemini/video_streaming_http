@@ -1,0 +1,22 @@
+{
+  "name": "video_streaming_http",
+  "version": "1.0.0",
+  "description": "Streaming video to browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatanYemini/video_streaming_http.git"
+  },
+  "author": "Matan Yemini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatanYemini/video_streaming_http/issues"
+  },
+  "homepage": "https://github.com/MatanYemini/video_streaming_http#readme",
+  "dependencies": {
+    "multiparty": "^4.2.1"
+  }
+}
